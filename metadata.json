@@ -1,0 +1,6 @@
+{
+  "name": "Ideas Mastery AI Engine",
+  "description": "An elite multi-phase content pipeline that validates, scores, and re-engineers raw content ideas into high-converting revenue assets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
