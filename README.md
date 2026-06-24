@@ -6,7 +6,7 @@
 
 This contains everything you need to run your app locally.
 
-View your app in AI Studio: https://ai.studio/apps/510af4ef-4ecb-4d14-bd98-2576cb1f57ac
+View your app in AI Studio: https://ideas-mastery-ai-engine-112831243573.asia-southeast1.run.app
 
 ## Run Locally
 
